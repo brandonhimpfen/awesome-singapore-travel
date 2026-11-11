@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Singapore, covering official tourism boards, digital arrival passes, mass rapid transit, green spaces, and cultural hubs.
 
+Singapore is a dynamic global garden city-state in Southeast Asia renowned for its innovative urban architecture, lush green spaces, world-class aviation hubs, and multicultural culinary districts. This list is intended for urban explorers, international travelers, business professionals, and culinary enthusiasts.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
